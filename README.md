@@ -1,4 +1,4 @@
-# MSG_Text_Similarities
+# MSG_Text_Similarity
 Compared and rated different text similarity models using NLP techniques. 
 
 This project was created while working with Mission Solutions Group and NLP techniques. The corpus used for this project is named parsedText.json. Code is written by Ashley Down and Hailey Sparks. The project was completed along with Naomi Woodbury. 
